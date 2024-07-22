@@ -1,0 +1,27 @@
+body{
+    background-color: #100745be;
+}
+
+h1 {
+    color: #ffff00;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+li {
+    color: #ffff00;
+    list-style:circle;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+
+
+
